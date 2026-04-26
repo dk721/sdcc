@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST svg xmlns:xlink CDATA #FIXED "http://www.w3.org/1999/xlink">
+]>
+<svg xmlns='http://www.w3.org/2000/svg'
+xmlns:xlink='http://www.w3.org/1999/xlink'
+width='3734pt' height='1480pt'
+viewBox='0.0 0.0 3734.0 1480.0'
+>
+<style type='text/css'>
+  svg {
+    background-color: white;
+  }
+  text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+  }
+</style>
+<g>
+  <rect x='222' y='100' width='202' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='323' y='130'>Управлять учётными записями</text>
+
+<rect x='464' y='200' width='238' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='583' y='230'>Нормализовать и обогатить события</text>
+
+<rect x='742' y='300' width='256' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='870' y='330'>Идентифицировать и аутентифицировать</text>
+
+<rect x='1038' y='420' width='226' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='1151' y='450'>Формировать отчёты соответствия</text>
+
+<rect x='1284' y='520' width='214' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='1391' y='550'>Управлять ролями и политиками</text>
+
+<rect x='1518' y='620' width='202' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='1619' y='650'>Загрузить роли пользователя</text>
+
+<rect x='1760' y='720' width='190' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='1855' y='750'>Получить разрешения ролей</text>
+
+<rect x='1990' y='820' width='250' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='2115' y='850'>Сопоставить операцию с разрешениями</text>
+
+<rect x='2280' y='920' width='214' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='2387' y='950'>Сохранить в защищённый журнал</text>
+
+<rect x='2534' y='1020' width='166' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='2617' y='1050'>Коррелировать события</text>
+
+<rect x='2740' y='1120' width='256' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='2868' y='1150'>Генерировать и отправлять оповещения</text>
+
+<rect x='3016' y='1220' width='202' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='3117' y='1250'>Применить решение о доступе</text>
+
+<rect x='3258' y='1320' width='220' height='60' fill='none' stroke='black' />
+<text text-anchor='middle' x='3368' y='1350'>Собрать и буферизовать события</text>
+
+  <path stroke='black' fill='none' d='M 3478 1350 L 3488 1350 C 3493 1350 3498 1355 3498 1360 L 3498 1390 C 3498 1395 3493 1400 3488 1400 L 454 1400 C 449 1400 444 1395 444 1390 L 444 240 C 444 235 449 230 454 230 L 464 230' />
+<polygon fill='black' stroke='black' points='464,230 458,233 458,227 464,230' />
+<text text-anchor='start' x='454' y='1395'>Буфер сырых событий</text>
+
+<path stroke='black' fill='none' d='M 424 130 L 434 130 C 439 130 444 135 444 140 L 444 370 C 444 375 449 380 454 380  L 850 380 C 855 380 860 375 860 370 L 860 360' />
+<polygon fill='black' stroke='black' points='860,360 857,366 863,366 860,360' />
+<text text-anchor='start' x='454' y='375'>Учётные записи от администрирования</text>
+
+<path stroke='black' fill='none' d='M 998 330 L 1008 330 C 1013 330 1018 335 1018 340 L 1018 640 C 1018 645 1023 650 1028 650 L 1518 650' />
+<polygon fill='black' stroke='black' points='1518,650 1512,653 1512,647 1518,650' />
+<text text-anchor='start' x='1003' y='325'>Аутентифицированный субъект</text>
+
+<path stroke='black' fill='none' d='M 1720 650 L 1730 650 C 1735 650 1740 655 1740 660 L 1740 740 C 1740 745 1745 750 1750 750 L 1760 750' />
+<polygon fill='black' stroke='black' points='1760,750 1754,753 1754,747 1760,750' />
+<text text-anchor='start' x='1725' y='645'>Список ролей</text>
+
+<path stroke='black' fill='none' d='M 1950 750 L 1960 750 C 1965 750 1970 755 1970 760 L 1970 830 C 1970 835 1975 840 1980 840 L 1990 840' />
+<polygon fill='black' stroke='black' points='1990,840 1984,843 1984,837 1990,840' />
+<text text-anchor='start' x='1955' y='745'>Набор разрешений</text>
+
+<path stroke='black' fill='none' d='M 702 230 L 712 230 C 717 230 722 235 722 240 L 722 940 C 722 945 727 950 732 950 L 2280 950' />
+<polygon fill='black' stroke='black' points='2280,950 2274,953 2274,947 2280,950' />
+<text text-anchor='start' x='707' y='225'>Обогащённая структурированная запись</text>
+
+<path stroke='black' fill='none' d='M 2494 960 L 2504 960 C 2509 960 2514 965 2514 970 L 2514 1040 C 2514 1045 2519 1050 2524 1050 L 2534 1050' />
+<polygon fill='black' stroke='black' points='2534,1050 2528,1053 2528,1047 2534,1050' />
+<text text-anchor='start' x='2499' y='955'>Структурированный поток событий</text>
+
+<path stroke='black' fill='none' d='M 2700 1050 L 2710 1050 C 2715 1050 2720 1055 2720 1060 L 2720 1140 C 2720 1145 2725 1150 2730 1150 L 2740 1150' />
+<polygon fill='black' stroke='black' points='2740,1150 2734,1153 2734,1147 2740,1150' />
+<text text-anchor='start' x='2705' y='1045'>Выявленные инциденты</text>
+
+<path stroke='black' fill='none' d='M 2240 850 L 2250 850 C 2255 850 2260 855 2260 860 L 2260 1240 C 2260 1245 2265 1250 2270 1250 L 3016 1250' />
+<polygon fill='black' stroke='black' points='3016,1250 3010,1253 3010,1247 3016,1250' />
+<text text-anchor='start' x='2245' y='845'>Вердикт</text>
+
+<path stroke='black' fill='none' d='M 3218 1260 L 3228 1260 C 3233 1260 3238 1265 3238 1270 L 3238 1340 C 3238 1345 3243 1350 3248 1350 L 3258 1350' />
+<polygon fill='black' stroke='black' points='3258,1350 3252,1353 3252,1347 3258,1350' />
+<text text-anchor='start' x='3223' y='1255'>Факты доступа</text>
+
+<line x1='20' y1='130' x2='222' y2='130' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='222,130 216,133 216,127 222,130' />
+<text text-anchor='start' x='25' y='125'>Кадровые данные</text>
+
+<line x1='20' y1='330' x2='742' y2='330' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='742,330 736,333 736,327 742,330' />
+<text text-anchor='start' x='25' y='325'>Запросы доступа</text>
+
+<line x1='20' y1='860' x2='1990' y2='860' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1990,860 1984,863 1984,857 1990,860' />
+<text text-anchor='start' x='25' y='855'>Характеристики ресурса</text>
+
+<line x1='1264' y1='450' x2='3714' y2='450' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3714,450 3708,453 3708,447 3714,450' />
+<text text-anchor='end' x='3709' y='445'>Отчёты и оповещения</text>
+
+<line x1='1498' y1='550' x2='3714' y2='550' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3714,550 3708,553 3708,547 3714,550' />
+<text text-anchor='end' x='3709' y='545'>Настроенные политики</text>
+
+<line x1='2494' y1='940' x2='3714' y2='940' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3714,940 3708,943 3708,937 3714,940' />
+<text text-anchor='end' x='3709' y='935'>Журнал аудита</text>
+
+<line x1='2996' y1='1150' x2='3714' y2='1150' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3714,1150 3708,1153 3708,1147 3714,1150' />
+<text text-anchor='end' x='3709' y='1145'>Отчёты и оповещения</text>
+
+<line x1='3218' y1='1240' x2='3714' y2='1240' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3714,1240 3708,1243 3708,1237 3714,1240' />
+<text text-anchor='end' x='3709' y='1235'>Авторизованный доступ или отказ</text>
+
+<line x1='323' y1='40' x2='323' y2='100' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='323,100 320,94 326,94 323,100' />
+<text text-anchor='middle' x='323' y='35'>Политики безопасности</text>
+
+<line x1='573' y1='60' x2='573' y2='200' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='573,200 570,194 576,194 573,200' />
+<text text-anchor='middle' x='573' y='55'>Нормативные требования</text>
+
+<line x1='593' y1='40' x2='593' y2='200' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='593,200 590,194 596,194 593,200' />
+<text text-anchor='middle' x='593' y='35'>Стандарты форматов данных</text>
+
+<line x1='870' y1='40' x2='870' y2='300' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='870,300 867,294 873,294 870,300' />
+<text text-anchor='middle' x='870' y='35'>Политики безопасности</text>
+
+<line x1='1151' y1='40' x2='1151' y2='420' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1151,420 1148,414 1154,414 1151,420' />
+<text text-anchor='middle' x='1151' y='35'>Нормативные требования</text>
+
+<line x1='1391' y1='40' x2='1391' y2='520' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1391,520 1388,514 1394,514 1391,520' />
+<text text-anchor='middle' x='1391' y='35'>Политики безопасности</text>
+
+<line x1='1619' y1='40' x2='1619' y2='620' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1619,620 1616,614 1622,614 1619,620' />
+<text text-anchor='middle' x='1619' y='35'>Назначения ролей</text>
+
+<line x1='1855' y1='40' x2='1855' y2='720' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1855,720 1852,714 1858,714 1855,720' />
+<text text-anchor='middle' x='1855' y='35'>Политики доступа</text>
+
+<line x1='2115' y1='40' x2='2115' y2='820' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2115,820 2112,814 2118,814 2115,820' />
+<text text-anchor='middle' x='2115' y='35'>Политики доступа</text>
+
+<line x1='2377' y1='60' x2='2377' y2='920' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2377,920 2374,914 2380,914 2377,920' />
+<text text-anchor='middle' x='2377' y='55'>Нормативные требования</text>
+
+<line x1='2397' y1='40' x2='2397' y2='920' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2397,920 2394,914 2400,914 2397,920' />
+<text text-anchor='middle' x='2397' y='35'>Политики целостности</text>
+
+<line x1='2617' y1='40' x2='2617' y2='1020' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2617,1020 2614,1014 2620,1014 2617,1020' />
+<text text-anchor='middle' x='2617' y='35'>Правила корреляции</text>
+
+<line x1='2868' y1='40' x2='2868' y2='1120' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2868,1120 2865,1114 2871,1114 2868,1120' />
+<text text-anchor='middle' x='2868' y='35'>Правила корреляции</text>
+
+<line x1='3117' y1='40' x2='3117' y2='1220' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3117,1220 3114,1214 3120,1214 3117,1220' />
+<text text-anchor='middle' x='3117' y='35'>Политики безопасности</text>
+
+<line x1='313' y1='1420' x2='313' y2='160' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='313,160 310,166 316,166 313,160' />
+<text text-anchor='middle' x='313' y='1435'>Администратор</text>
+
+<line x1='333' y1='1440' x2='333' y2='160' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='333,160 330,166 336,166 333,160' />
+<text text-anchor='middle' x='333' y='1455'>Консоль администратора</text>
+
+<line x1='583' y1='1440' x2='583' y2='260' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='583,260 580,266 586,266 583,260' />
+<text text-anchor='middle' x='583' y='1455'>Платформа IAM</text>
+
+<line x1='880' y1='1440' x2='880' y2='360' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='880,360 877,366 883,366 880,360' />
+<text text-anchor='middle' x='880' y='1455'>Платформа IAM</text>
+
+<line x1='1141' y1='1420' x2='1141' y2='480' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1141,480 1138,486 1144,486 1141,480' />
+<text text-anchor='middle' x='1141' y='1435'>Администратор</text>
+
+<line x1='1161' y1='1440' x2='1161' y2='480' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1161,480 1158,486 1164,486 1161,480' />
+<text text-anchor='middle' x='1161' y='1455'>Консоль администратора</text>
+
+<line x1='1381' y1='1420' x2='1381' y2='580' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1381,580 1378,586 1384,586 1381,580' />
+<text text-anchor='middle' x='1381' y='1435'>Администратор</text>
+
+<line x1='1401' y1='1440' x2='1401' y2='580' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1401,580 1398,586 1404,586 1401,580' />
+<text text-anchor='middle' x='1401' y='1455'>Консоль администратора</text>
+
+<line x1='1619' y1='1440' x2='1619' y2='680' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1619,680 1616,686 1622,686 1619,680' />
+<text text-anchor='middle' x='1619' y='1455'>Хранилище учётных записей</text>
+
+<line x1='1855' y1='1440' x2='1855' y2='780' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='1855,780 1852,786 1858,786 1855,780' />
+<text text-anchor='middle' x='1855' y='1455'>База политик</text>
+
+<line x1='2115' y1='1440' x2='2115' y2='880' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2115,880 2112,886 2118,886 2115,880' />
+<text text-anchor='middle' x='2115' y='1455'>Точка принятия решений</text>
+
+<line x1='2397' y1='1420' x2='2397' y2='980' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2397,980 2394,986 2400,986 2397,980' />
+<text text-anchor='middle' x='2397' y='1435'>Платформа IAM</text>
+
+<line x1='2377' y1='1440' x2='2377' y2='980' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2377,980 2374,986 2380,986 2377,980' />
+<text text-anchor='middle' x='2377' y='1455'>Защищённое хранилище логов</text>
+
+<line x1='2617' y1='1440' x2='2617' y2='1080' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2617,1080 2614,1086 2620,1086 2617,1080' />
+<text text-anchor='middle' x='2617' y='1455'>Движок корреляции</text>
+
+<line x1='2868' y1='1440' x2='2868' y2='1180' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='2868,1180 2865,1186 2871,1186 2868,1180' />
+<text text-anchor='middle' x='2868' y='1455'>Сервис уведомлений</text>
+
+<line x1='3117' y1='1440' x2='3117' y2='1280' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3117,1280 3114,1286 3120,1286 3117,1280' />
+<text text-anchor='middle' x='3117' y='1455'>Точка применения решения</text>
+
+<line x1='3378' y1='1420' x2='3378' y2='1380' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3378,1380 3375,1386 3381,1386 3378,1380' />
+<text text-anchor='middle' x='3378' y='1435'>Платформа IAM</text>
+
+<line x1='3358' y1='1440' x2='3358' y2='1380' stroke='black' stroke-dasharray='5,5' />
+<polygon fill='black' stroke='black' points='3358,1380 3355,1386 3361,1386 3358,1380' />
+<text text-anchor='middle' x='3358' y='1455'>Агенты аудита</text>
+
+</g>
+</svg>
