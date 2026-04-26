@@ -4,7 +4,6 @@
 - [BPMN](https://raw.githubusercontent.com/dk721/sdcc/refs/heads/main/include/diagram.svg)
 - [IDEF0](https://raw.githubusercontent.com/dk721/sdcc/refs/heads/main/include/idef.svg)
 
-https://raw.githubusercontent.com/dk721/sdcc/refs/heads/main/volume/01-SystemAnalysis.md
 Лабораторные работы:
 - [Системный анализ предметной области](https://raw.githubusercontent.com/dk721/sdcc/refs/heads/main/volume/01-SystemAnalysis.md)
 - [Построение диаграмм потоков данных](https://raw.githubusercontent.com/dk721/sdcc/refs/heads/main/volume/02-DataFlow.md)
